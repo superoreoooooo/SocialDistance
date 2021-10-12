@@ -1,0 +1,6 @@
+name: SocialDistancePL
+version: '${project.version}'
+main: org.oreoprojekt.socialdistancepl.SocialDistancePL
+api-version: 1.17
+commands:
+  SocialDistance:
